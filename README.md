@@ -90,3 +90,7 @@ Cabe destacar que podes modificar el código json para hacer tu propia estructur
   }
 
 ```
+[ver solo archivo json](https://github.com/Jesparzarom/html_snippets_vsc/edit/main/html_snippets.json)
+
+
+
