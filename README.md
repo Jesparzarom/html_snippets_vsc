@@ -10,7 +10,8 @@ La configuración se abre desde:
 Otra opción es:
 >  control [ctrl]) + shift ([↑    ]) + [p]  --->  escribir: "user snippets" ---> "html.json"
  
-Abajo del fragmento dado, está un video tutorial que muestra cómo hacerlo. Una vez completado, solamente hay que poner normalmente el `!` y enter en las opciones nuevas y ¡listo!, tu html se autocompleta.  
+
+Una vez completado, solamente hay que poner normalmente el `!` y enter en las opciones nuevas y ¡listo!, tu html se autocompleta.  
 
 Cabe destacar que podes modificar el código json para hacer tu propia estructura.
 
